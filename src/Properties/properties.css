@@ -1,0 +1,9 @@
+.property-style {
+    width: 80%;
+    margin: 5px auto;
+    border: 1px solid #eeeeee;
+    box-shadow: 0 2px 3px darkgrey;
+    padding: 1rem;
+    text-align: left;
+    text-indent: 1px;
+}
